@@ -1,0 +1,6 @@
+eureka:
+  server:
+    enableSelfPreservation: false
+  instance:
+    leaseRenewalIntervalSeconds: 1
+    leaseExpirationDurationSeconds: 2
